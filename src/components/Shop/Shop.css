@@ -11,3 +11,10 @@
 .cart-container{
     text-align: left;
 }
+.search-container{
+    background-color: rgba(0, 0, 0, 0.85);
+    line-height: 40px;
+}
+.search-container input{
+    width: 75%;
+}
